@@ -1,5 +1,8 @@
-Definitions:
+= Drone regels
 
+== Definitions:
+
+==== Easy Access Rules for Unmanned Aircraft Systems -- 2019/947 -- link:https://www.easa.europa.eu/en/document-library/easy-access-rules/easy-access-rules-unmanned-aircraft-systems-regulations-eu[PDF]
 
 (3) Gemenigte: groepen waar mensen niet weg kunnen doordat er zoveel mensen zijn
 - sport eventen
@@ -15,7 +18,7 @@ Mensen die op een bankje zitten, of wandelen door de straat zijn ook ongerelatee
 Mensen onder een dak worden niet geteld als ongerelateerd, aangezien ze geen risico lopen (mits de drone onder 25kg weegt)
 
 
---- air operations --- Commission Regulation (EU) No 965/2012 --- https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32012R0965&qid=1652802846137 ---
+=== air operations --- Commission Regulation (EU) No 965/2012 --- link:https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32012R0965&qid=1652802846137[PDF] ---
 (23) Overbelast gebied: gerelateed tot een stad, dorp of het gebied wordt gebruik voor residentiele, commerciele of recreationele doeleinden.
 
 
@@ -23,9 +26,7 @@ Mensen onder een dak worden niet geteld als ongerelateerd, aangezien ze geen ris
 STS-02: BVLOS sparsely populated area max 1km
 
 
-
-
---- UAS.OPEN.020 UAS operations in subcategory A1 ---
+== --- UAS.OPEN.020 UAS operations in subcategory A1 ---
 
 (1) wanneer de drone C1 is, is vliegen over gemingte nooit toegestaan, vliegen over ongerelateerde personen moet zo kort mogelijk worden gehouden.
 En bij het opstijgen met er redelijk worden verwacht dat er niet over ongerelateerde personen wordt gevlogen.
