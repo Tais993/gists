@@ -1,0 +1,47 @@
+Definitions:
+
+
+(3) Gemenigte: groepen waar mensen niet weg kunnen doordat er zoveel mensen zijn
+- sport eventen
+- parken op zonnige dagen
+- winkel straten
+
+(34) Twilight: Wanneer de zon's kern 6 graden onder de horizon zit
+
+(18) Ongerelateerd personen:
+In het algemeen mensen die geen duidelijk toestemming hebben gegeven, en wel risico lopen.
+Mensen die op een bankje zitten, of wandelen door de straat zijn ook ongerelateerd.
+
+Mensen onder een dak worden niet geteld als ongerelateerd, aangezien ze geen risico lopen (mits de drone onder 25kg weegt)
+
+
+--- air operations --- Commission Regulation (EU) No 965/2012 --- https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32012R0965&qid=1652802846137 ---
+(23) Overbelast gebied: gerelateed tot een stad, dorp of het gebied wordt gebruik voor residentiele, commerciele of recreationele doeleinden.
+
+
+
+STS-02: BVLOS sparsely populated area max 1km
+
+
+
+
+--- UAS.OPEN.020 UAS operations in subcategory A1 ---
+
+(1) wanneer de drone C1 is, is vliegen over gemingte nooit toegestaan, vliegen over ongerelateerde personen moet zo kort mogelijk worden gehouden.
+En bij het opstijgen met er redelijk worden verwacht dat er niet over ongerelateerde personen wordt gevlogen.
+
+(2) wanneer de drone C0 is, (A1) onder 250 gram weegt is vliegen over gemenigte is nooit toegestaan
+Vliegen over ongerelateerde personen is toegestaan.
+
+(3) geen VLOS wanneer de drone in follow-me modus zit met een maximale afstand van 50 meter.
+
+(4) de operator moet zich aan de voorwaarden voldoen:
+  (a) de handleiding van de drone kent
+  (b) wanneer C1, kennis test heeft gehaald
+
+(5)
+  (a) wanneer prive gebouwt, <250g en gaat langzamer dan 19m/s
+  (b) voldoet zich aan artikel 20 (a) (<250g)
+  (c) C0
+  (d) C1
+
