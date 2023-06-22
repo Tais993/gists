@@ -1,3 +1,9 @@
+ACM = acceptable means of compliance \
+ACM's zijn niet-bindende normen die helpen om de regels te begrijpen.
+
+GM = guidance material
+
+
 = Drone regels
 
 == Definitions:
@@ -18,31 +24,128 @@ Mensen die op een bankje zitten, of wandelen door de straat zijn ook ongerelatee
 Mensen onder een dak worden niet geteld als ongerelateerd, aangezien ze geen risico lopen (mits de drone onder 25kg weegt)
 
 
-=== air operations --- Commission Regulation (EU) No 965/2012 --- link:https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32012R0965&qid=1652802846137[PDF] ---
+=== Air Operations -- Commission Regulation (EU) No 965/2012 -- link:https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32012R0965&qid=1652802846137[PDF]
 (23) Overbelast gebied: gerelateed tot een stad, dorp of het gebied wordt gebruik voor residentiele, commerciele of recreationele doeleinden.
 
 
+== t
 
 STS-02: BVLOS sparsely populated area max 1km
 
 
-== --- UAS.OPEN.020 UAS operations in subcategory A1 ---
+== UAS.OPEN.020 UAS operations in subcategory A1
 
-(1) wanneer de drone C1 is, is vliegen over gemingte nooit toegestaan, vliegen over ongerelateerde personen moet zo kort mogelijk worden gehouden.
+. wanneer de drone C1 is, is vliegen over gemingte nooit toegestaan, vliegen over ongerelateerde personen moet zo kort mogelijk worden gehouden.
 En bij het opstijgen met er redelijk worden verwacht dat er niet over ongerelateerde personen wordt gevlogen.
 
-(2) wanneer de drone C0 is, (A1) onder 250 gram weegt is vliegen over gemenigte is nooit toegestaan
+. wanneer de drone C0 is, (A1) onder 250 gram weegt is vliegen over gemenigte is nooit toegestaan
 Vliegen over ongerelateerde personen is toegestaan.
 
-(3) geen VLOS wanneer de drone in follow-me modus zit met een maximale afstand van 50 meter.
+. geen VLOS wanneer de drone in follow-me modus zit met een maximale afstand van 50 meter.
 
-(4) de operator moet zich aan de voorwaarden voldoen:
-  (a) de handleiding van de drone kent
-  (b) wanneer C1, kennis test heeft gehaald
+. de operator moet zich aan de voorwaarden voldoen:
+.. de handleiding van de drone kent
+.. wanneer C1, kennis test heeft gehaald
 
-(5)
-  (a) wanneer prive gebouwt, <250g en gaat langzamer dan 19m/s
-  (b) voldoet zich aan artikel 20 (a) (<250g)
-  (c) C0
-  (d) C1
+. de drone moet zich aan de voorwaarden voldoen:
+.. wanneer prive gebouwt, <250g en gaat langzamer dan 19m/s
+.. voldoet zich aan artikel 20 (a) (<250g)
+.. C0
+.. C1
 
+
+== AMC1 UAS.OPEN.020(1) and (2) UAS operations in subcategory A1
+
+=== Operationele limitaties in subcategory A1
+
+Inprincipe is het overvliegen van mensen verboden, het overvliegen van geisoleerde mensen mag wel, maar er is een verschil tussen C1, C0 en zelf gebouwde van onder 250g.
+
+.. Voor C1, voor het vliegen moet de piloot het gebied veiligstellen met een redelijk vermoeden dat er geen mensen worden overgevlogen.
+Wanneer er toch wordt overgevlogen, moet dit zo kort mogelijk gebeuren.
+
+.. het is acceptabel bij C0 or zelfgebouwde met MTOMs van onder 250g.
+Alsnog moet dit worden vermijd wanneer kan en moet er worden opgelet als het wel gebeurt.
+
+== AMC1 UAS.OPEN.020(4)(b) and UAS.OPEN.040(3) UAS operations in subcategories A1 and A3
+
+=== Theoretische kennis
+
+..
+
+
+== UAS.OPEN.030 UAS operations in subcategory A2
+
+UAS operaties in subcategory A2 voldoen zich aan:
+
+. de drone vliegt niet boven ongerelateerde mensen, en blijft op een veilige afstand van minimaal 30 meter. Dit verminderd worden tot 5 meter wanneer er een "low speed mode" aan gaat en het volgende wordt geevalueerd:
+.. weer
+.. performance van de drone
+.. afscheiding van het overgevlogen gebied
+
+. wordt gedaan door een piloot die de fabrikants drone instructies kent, en de piloot heeft een certificaat nodig, die je krijgt onder de volgende condities:
+.. online training en online examen heeft gehaald volgens UAS.OPEN.020 punt 4(b)
+.. zelf-praktische training in de condities van A3 volgens punten 1 en 2 van UAS.OPEN.040
+.. veklaren van voltooien van zelf-praktische training volgens (b) en het halen van een additioneel theoretisch examen met een score van minimaal 75% over alle onderdelen
+... meteorologie
+... drone vlucht prestaties
+... maatregelen voor risico's op de grond
+
+. Wordt gedaan met een drone gemarkeerd als C2
+
+== AMC1 UAS.OPEN.030(1) UAS operations in subcategory A2
+
+==== Veilige afstand van ongerelateerde personen
+.. De minimale horizontale veilige afstand van de drone tot de persoon moet gemeten worden als het punt waar de drone verticaal zal vallen/landen tot de positie van het persoon
+
+.. Als reference, wanneer de drone dichtbij mensen vliegt moet de afstand aan de 1:1 regel voldoen. Vlieg je op 30m afstand? mensen op 30m afstand.
+
+.. in ieder geval, de afstand moet altijd groter zijn dan:
+. 5m, wanneer de langzame snelheid modes aan staat op 3m/s
+. 5m, wanneer een ballon of luchtschip
+. 30m in alle andere gevallen
+
+== GM1 UAS.OPEN.030(1) UAS operations in subcategory A2
+
+==== Veilige afstand van ongerelateerde personen
+De veilige afstand tot ongerelateerde personen ligt aan de prestaties en kenmerken van de drone, het weer, de afscheiding van het gebied. De piloot is volledig verantwoordelijk
+
+
+
+== UAS.OPEN.040 UAS operations in subcategory A3
+
+Operaties in de A3 subcategorie houden zich aan de volgende condities:
+. Wordt gevlogen ine en gebied waar de piloot redelijk verwacht dat er geen ongerelateerde mensen ing evaar komen
+
+. Wordt gevlogen op 150 meter afstand van residentiele, commerciele, industriele of recrationele gebieden.
+
+. Wordt gevlogen door een piloot die bekend is met de handleiding van de fabrikant over de drone, en heeft een online training en examen gehaald die zich aan punt 4(b) voldoet van UAS.OPEN.020.
+
+. Wordt gevlogen met een drone die
+.. met een MTOM maximaal 25kg weegt als het een zelfgebouwde is
+.. houd zich aan de voorwaarden zoals uitgelegd in punt (b) van Artikel 20
+.. is C2
+.. is C3
+.. is C4
+
+
+== AMC1 UAS.OPEN.040(1) Operations in subcategory A3
+=== Gebieden waar operaties in A3 mogen gebeuren
+.. Als een ongerelateerd persoon het gebied betreed, moet de piloot wanneer nodig de operatie aanpassen om veilig te waarnemen, of stoppen wanneer het niet lukt.
+
+.. Een minimale horizontale afstand van het persoon dat het gebied dorgaat
+. niet minder dan 30m
+. niet miner dan de 1:1 regel
+. niet minder dan de afstand die de drone gaat in 2 seconden op volle snelheid
+
+== GM1 UAS.OPEN.030(1) and UAS.OPEN.040(1) UAS operations in subcategories A1 and A3 
+=== Verschil tussen A2 en A3
+A2 addresseerd operaties waarbij dicht af mensen vliegen de bedoeling is. De minimum afstand van ongerelateerde mensen af verschild tussen de 30m tot 5m.
+5m is alleen toegestaan wanneer low-speed mode aan staat, en de piloot heeft gekeken naar de weers heden, drone performance en afscheiding van het overgevlogen gebied.
+
+A3 addresseerd operaties waarbij de piloot redelijk verwacht dat geen ongerelateerde mensen overgevlogen zullen worden, ook moet dit minimaal 150m af zitten van resendtiele, commerciele, industriele en recrationele gebieden.
+
+
+== GM1 UAS.OPEN.040(4) UAS operations in subcategory A3
+=== Gebruik van C0 of C1 drones in A3
+
+S
